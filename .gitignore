@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+auth.json
+settings.json
+task-usage.json
+*.jsonl
+backups/
